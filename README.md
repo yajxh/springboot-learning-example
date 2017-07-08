@@ -1,21 +1,27 @@
 # springboot-learning-example
 spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 
+# 推荐 springcloud-learning-example
+[spring cloud 实践学习案例](https://github.com/JeffLi1993/springcloud-learning-example)<br>
+https://github.com/JeffLi1993/springcloud-learning-example
+
 ## Spring For All 社区
-Spring For All 社区是新组建的关于 Spring 的纯技术交流社区（涵盖 Spring Boot、Spring Cloud 等内容），集诸多开源爱好者和技术大牛贡献内容和交流问题。我们不夸大、不装逼、做最纯粹的技术分享！！！
+[Spring For All 社区](http://www.spring4all.com/ "spring4all")是新组建的关于 Spring 的纯技术交流社区（涵盖 Spring Boot、Spring Cloud 等内容），集诸多开源爱好者和技术大牛贡献内容和交流问题。我们不夸大、不装逼、做最纯粹的技术分享！！！
 
 看看我们超强的群众基础，欢迎有兴趣的朋友加入QQ群分享与交流：
 
-①群： 365234583（满）<br>
-②群： 123013854（满）<br>
-③群： 290714704<br>
-④群： 112133511<br>
-⑤群： 157525002（满）<br>
-⑥群： 564840207<br>
-⑦群： 470962790（满）<br>
-⑧群： 613456104（满）<br>
-⑨群： 534583667<br>
-⑩群： 210742970（满）
+Spring For All 社区 ① 365234583（满）<br>
+Spring For All 社区 ② 123013854（满）<br>
+Spring For All 社区 ③ 290714704（满）<br>
+Spring For All 社区 ④ 112133511（满）<br>
+Spring For All 社区 ⑤ 157525002（满）<br>
+Spring For All 社区 ⑥ 564840207<br>
+Spring For All 社区 ⑦ 470962790（满）<br>
+Spring For All 社区 ⑧ 613456104（满）<br>
+Spring For All 社区 ⑨ 534583667<br>
+Spring For All 社区 ⑩ 210742970 （满）<br>
+Spring For All 社区 ⑪ 517395240 <br>
+Spring For All 社区 ⑫ 498098401 <br>
 
 博主微信：139-5868-6678
 
@@ -56,9 +62,9 @@ Spring For All 社区是新组建的关于 Spring 的纯技术交流社区（涵
 
 #### d. 『 基础 – 数据缓存篇 』
 - springboot-mybatis-redis <br>
- [《Spring Boot 整合 Redis 实现缓存操作》](http://www.bysocket.com/?p=1712 "Spring Boot 整合 Mybatis 实现 Druid 多数据源详解")<br>
+ [《Spring Boot 整合 Redis 实现缓存操作》](http://www.bysocket.com/?p=1756 "Spring Boot 整合 Mybatis 实现 Druid 多数据源详解")<br>
 - springboot-mybatis-redis-annotation <br>
- [《Spring Boot 注解实现整合 Redis 作为缓存》](http://www.bysocket.com/?p=1712 "Spring Boot 整合 Mybatis 实现 Druid 多数据源详解")<br>
+ [《Spring Boot 注解实现整合 Redis 作为缓存》](http://www.bysocket.com/?p=1756 "Spring Boot 整合 Mybatis 实现 Druid 多数据源详解")<br>
 
 #### e. 『 其他篇 』
 - springboot-elasticsearch <br>
@@ -69,6 +75,12 @@ Dubbo 服务提供者工程和 Dubbo 服务消费者工程 <br>
  [《Springboot 整合 Dubbo/ZooKeeper 详解 SOA 案例》](http://www.bysocket.com/?p=1681 "Springboot 整合 Dubbo/ZooKeeper 详解 SOA 案例")<br>
  [《Spring Boot 中如何使用 Dubbo Activate 扩展点》](http://www.bysocket.com/?p=1782 "Spring Boot 中如何使用 Dubbo Activate 扩展点")<br>
 
+
+#### 『 Spring Data ES 篇 』
+- spring-data-elasticsearch-crud <br>
+ [《Spring Data Elasticsearch - 基本案例》](http://spring4all.com/article/70 "Spring Data Elasticsearch - 基本案例")<br>
+- spring-data-elasticsearch-query <br>
+spring-data-elasticsearch - 实战案例详解
 
 ## 二、项目 Quick Start 快速开发指南
 #### a. 基本环境配置
@@ -92,6 +104,7 @@ CREATE TABLE `city` (
 INSERT city VALUES (1 ,1,'温岭市','BYSocket 的家在温岭。');
 ````
  <br>
+ 
 ### 《 springboot-mybatis 工程 Quick Start 》
 首先 check 基本环境配置完成，创建好数据库和表。
 
